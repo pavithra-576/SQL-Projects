@@ -149,7 +149,8 @@ PostgreSQL
 SQLite
 Oracle Database
 Microsoft SQL Server
-📊 Database Operations
+
+**📊 Database Operations**
 Operation	Purpose
 SELECT	Retrieve Data
 INSERT	Add Records
@@ -158,8 +159,8 @@ DELETE	Remove Records
 JOIN	Combine Tables
 GROUP BY	Organize Data
 INDEX	Improve Performance
-💡 Learning Outcomes
 
+**💡 Learning Outcomes**
 By building these projects, you will learn:
 
 Database Design 🗂️
@@ -167,15 +168,16 @@ Query Optimization ⚡
 Data Relationships 🔗
 Real World SQL Applications 🌍
 Backend Data Handling 💻
-🌍 Real World Applications
+
+**🌍 Real World Applications**
 Banking Systems 🏦
 Online Shopping 🛒
 Healthcare Management 🏥
 School Portals 🎓
 Business Analytics 📈
 Inventory Systems 📦
-🤝 Contributions
 
+**🤝 Contributions**
 Contributions are welcome!
 
 Fork 🍴
